@@ -1,0 +1,232 @@
+=== SLIDE 1 ===
+VNRVJIET
+Vignana Jyothi Institute of Engineering & Technology
+FINTECH
+PSID  SH-104
+CONVERGENCE 2k26
+EXPERIENCE  •  INNOVATION  •  IMPACT
+September 18–19, 2026
+FINISCIENT
+AI-powered personal financial intelligence
+1
+OBSERVE
+2
+PREDICT
+3
+ACT
+CONVERGENCE 2k26 • SOFTWARE HACKATHON
+01
+
+=== SLIDE 2 ===
+MEET THE TEAM
+Team Details
+FINISCIENT • SH-104
+02
+ALT_F4
+Fintech  •  PSID: SH-104
+Four builders, one behaviour-first thesis
+Make financial decisions clearer before the money leaves.
+01
+TEAM LEAD
+DV CHARAN TEJA REDDY
+Phone  9063206504
+Roll  26071A05P2
+02
+TEAM MEMBER
+SUSHANT LABHALA
+Phone  7093019067
+Roll  26071A05R5
+03
+TEAM MEMBER
+ABHISHAY DONKINALA
+Phone  7702117668
+Roll  26071A04N4
+04
+TEAM MEMBER
+K S K SASANK
+Phone  9032600150
+Roll  26071A05AD
+TEAM THESIS
+A finance app should explain the next decision — not just report the last one.
+
+=== SLIDE 3 ===
+WHY FINANCE TOOLS STILL FEEL REACTIVE
+Problem Statement & Understanding
+FINISCIENT • SH-104
+03
+SH-104  |  AI-POWERED PERSONAL FINANCIAL INTELLIGENCE
+The gap is not more data. It is better timing.
+People can see what happened. They still cannot tell what to do before the next purchase.
+01
+Bad timing, alert fatigue
+Most apps warn you after the money's already spent. By the time the alert shows up, there's nothing left to do.
+02
+No personal context
+A flat spending cap doesn't know you. It can't tell if you're at a store you visit every week or one you've never been to.
+03
+Real vs. predicted
+People can't easily tell what's a confirmed transaction and what's just a guess or a goal the app made up.
+CUSTOMER PROBLEM
+Avoid impulse buys, track subscriptions, and reach savings goals without complex Excel sheets.
+Our core understanding & approach
+Shift from tracking what already happened to predicting and shaping what happens next.
+1
+OBSERVE
+Personal baseline comparisons explain unusual spending in simple language.
+2
+PREDICT
+Dynamic simulations show how choices delay goal ETAs or create cash-flow pressure.
+3
+INTERVENE
+Pre-spending cues arrive while a decision can still be adjusted.
+Target market  •  Students  •  Young professionals  •  UPI users on a budget
+FINISCIENT • SH-104
+03
+
+=== SLIDE 4 ===
+FROM FINANCIAL DATA TO A BETTER NEXT DECISION
+Proposed Solution & Innovation
+FINISCIENT • SH-104
+04
+FINISCIENT ENGINE
+A proactive system that learns your Financial Behaviour Profile from transaction history and spending patterns.
+Observe & Explain
+Turns raw payment data into plain insights — how today's spending compares to your normal baseline.
+Predict & Forecast
+Flags cash-flow pressure and projected spend before the budget period runs out.
+Right-Moment Interventions
+Nudges you before or during a spending decision, not after — when a warning's too late to matter.
+PRODUCT VIEW
+Explain • Forecast • Nudge
+Key innovations & differentiators
+PRE-BITE PING
+Budget impact visibility before discretionary purchases.
+ZOMBIE DETECTOR
+Cost-per-hour utility and zero-usage subscription alerts.
+WHAT-IF SIMULATOR
+Sliders recalculate savings and target goal dates in real time.
+INDIA-FIRST
+UPI normalization, INR categorization, festival forecasting.
+FINISCIENT • SH-104
+04
+
+=== SLIDE 5 ===
+DETERMINISTIC FINANCIAL ENGINE + GENERATIVE EXPLAINABILITY LAYER
+Technical Implementation
+FINISCIENT • SH-104
+05
+Technical workflow pipeline
+Verified data  →  deterministic calculations  →  plain-English intervention  →  clear UI
+01
+Multi-source ingestion
+Normalizes UPI & bank CSV logs
+Parses subscription usage logs
+Captures context/location events
+02
+Analytics & simulation
+Baseline math & anomaly radar
+Prophet forecasting & goal ETAs
+Deterministic “What-If” engine
+03
+XAI & intervention
+LLM transforms verified math
+Intervention Engine triggers
+Pre-Bite vs Post-Bill cues
+04
+Dual-tab UI
+Clear split between observed transactions
+and calculated predictions
+Implementation stack
+1
+FRONTEND UI
+React.js / Next.js
+Tailwind CSS • Chart.js visuals
+2
+BACKEND API
+Python FastAPI
+REST endpoints • Pydantic schema
+3
+ML & XAI
+Scikit-learn • Prophet
+Gemini / Claude API
+4
+DATABASE
+PostgreSQL
+Isolated ledger • prediction caching
+Trust boundary  |  The LLM explains verified structured metrics; it never invents financial values or executes transactions.
+FINISCIENT • SH-104
+05
+
+=== SLIDE 6 ===
+BEHAVIOURAL TRANSFORMATION ENGINE + PRAGMATIC HACKATHON DELIVERY FRAMEWORK
+Impact & Feasibility
+FINISCIENT • SH-104
+06
+Impact & value proposition
+BEHAVIOURAL SHIFT
+Reactive expense logging → proactive financial behaviour intelligence.
+RIGHT-MOMENT CUES
+Post-payment guilt alerts → contextual cues before or during decisions.
+LEAK CONTROL
+Zombie subscription detection plus avoidable annual cost and cost-per-hour metrics.
+GOAL SIMULATION
+Daily spending adjustments → live savings and goal completion date updates.
+Technical feasibility
+Focused MVP scope
+Three polished experiences: unusual transaction explanations, subscription worth-it analysis, and what-if simulations.
+Simulated data architecture
+Mock/CSV bank and UPI records, subscription usage logs, and simulated context events.
+Deterministic backend
+Reliable baselines, anomaly detection, cash-flow forecasts, and goal ETAs.
+Trust & safety standards
+Verified metrics only; no hallucinated financial values or automated transactions without consent.
+Hackathon delivery path
+01
+Ingest
+UPI / bank / usage logs
+02
+Explain
+Baseline + anomaly radar
+03
+Simulate
+Goal ETA + what-if
+04
+Nudge
+Pre-spend intervention
+THE WINNING DIFFERENCE
+FINISCIENT does not ask users to become accountants. It gives them a clearer next move.
+FINISCIENT • SH-104
+06
+
+=== SLIDE 7 ===
+EVIDENCE BEHIND THE DESIGN CHOICES
+References & Research
+FINISCIENT • SH-104
+07
+01
+Ribeiro, M. T., Singh, S., & Guestrin, C.
+"Why Should I Trust You?" — model-agnostic XAI concepts.
+02
+Meta AI Prophet Documentation.
+Open-source forecasting tooling for time-series financial data.
+03
+FinTech UX Best Practices.
+Visual differentiation between transactional data and probabilistic forecasts.
+04
+Thaler, R. H., & Sunstein, C. R. (2008).
+Nudge Theory & Choice Architecture — foundation for right-moment cues.
+05
+Reserve Bank of India / Account Aggregator Framework.
+Standardized protocols for financial data sharing and transparency.
+06
+Plaid Transactions API Documentation.
+Categorization, merchant enrichment, and recurring-payment detection.
+07
+Kaggle — Financial Transactions Dataset.
+Anonymized data for spending analysis, modelling, clustering, and forecasting.
+DATA • ANALYTICS • DECISION
+RESEARCH → PRODUCT PRINCIPLE
+Trust the math. Explain the why. Act before the regret.
+FINISCIENT • SH-104
+07
+

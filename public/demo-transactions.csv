@@ -1,0 +1,27 @@
+id,date,merchant,category,amount,channel
+s01,2026-09-20,Zomato — family biryani,Food,1850,UPI
+s02,2026-09-19,Swiggy Instamart,Food,430,UPI
+s03,2026-09-18,Hostel mess extra,Food,620,UPI
+s04,2026-09-17,Cafe Coffee Day,Food,380,UPI
+s05,2026-09-16,Domino's,Food,720,UPI
+s06,2026-09-15,Swiggy,Food,560,UPI
+s07,2026-09-13,Campus canteen,Food,640,UPI
+s08,2026-09-12,Zomato,Food,490,UPI
+s09,2026-09-09,Swiggy,Food,580,UPI
+s10,2026-09-07,Night canteen,Food,700,UPI
+s11,2026-09-05,Zomato,Food,450,UPI
+s14,2026-09-18,Myntra,Shopping,1299,UPI
+s15,2026-09-10,Amazon,Shopping,890,UPI
+s16,2026-09-04,Campus store,Shopping,491,UPI
+s17,2026-09-08,Amazon,Shopping,1220,UPI
+s18,2026-09-14,BookMyShow,Entertainment,890,UPI
+s19,2026-09-06,Steam,Entertainment,650,UPI
+s20,2026-09-19,PVR Cinemas,Entertainment,780,UPI
+s21,2026-09-19,Rapido,Transport,420,UPI
+s22,2026-09-14,Uber,Transport,680,UPI
+s23,2026-09-08,Metro + bus pass,Transport,820,UPI
+s24,2026-09-02,Netflix,Subscriptions,649,UPI
+s25,2026-09-02,Spotify,Subscriptions,119,UPI
+s26,2026-09-01,Jio fiber share,Subscriptions,299,UPI
+s27,2026-09-11,NPTEL exam fee,Education,1200,UPI
+s28,2026-09-01,Stationery,Education,593,UPI
