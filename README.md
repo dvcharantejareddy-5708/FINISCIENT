@@ -4,6 +4,7 @@ Phone-first financial intelligence companion (FinTech & Commerce).
 
 **Your money, before it becomes a problem.**
 
+
 ## Run
 
 ```bash
