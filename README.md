@@ -1,6 +1,6 @@
 # FINISCIENT
 
-Phone-first financial intelligence companion for the iQOO Hackathon 2026 (FinTech & Commerce).
+Phone-first financial intelligence companion (FinTech & Commerce).
 
 **Your money, before it becomes a problem.**
 
@@ -21,6 +21,3 @@ AI never invents amounts. Trust badges: OBSERVED, CALCULATED, PREDICTED, GOAL IM
 
 The Android Share Target in this web prototype is an interactive simulation, not a native Android intent handler.
 
-## Demo path (≈60s)
-
-Home pulse → ₹1,850 Food flag → Share headphones ₹3,999 → slider to ₹2,499 → Explain this.
