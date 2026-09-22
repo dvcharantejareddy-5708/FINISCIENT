@@ -12,7 +12,17 @@ npm install
 npm run dev
 ```
 
-Open the local URL on a phone-sized viewport (360–430px). Desktop shows a centered device column.
+Open the local URL on a phone-sized viewport (360–430px). Desktop shows a centred device column.
+
+## Team
+
+FINSCIENT
+
+- Sushant Labhala (Team Lead) 
+- DV Charan Teja Reddy
+- Abhishay Donkinala
+
+Built as part of the iQOO Hackathon 2026.
 
 ## Architecture
 
